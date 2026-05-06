@@ -21,20 +21,6 @@ Currently focusing on improving my skills in frontend development, backend basic
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?Farzz-X=Farzz-X&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Farzz-X=Farzz-X&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Streak Activity
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=USERNAMEKAMU&theme=tokyonight)
-
----
-
 ## 🚀 Goals
 
 - Become Full Stack Developer  
