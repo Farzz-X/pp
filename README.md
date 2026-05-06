@@ -23,9 +23,9 @@ Currently focusing on improving my skills in frontend development, backend basic
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?Farzz-X=Farzz-X&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Farzz-X=Farzz-X&layout=compact&theme=tokyonight)
 
 ---
 
